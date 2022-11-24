@@ -24,19 +24,20 @@ const About = () => {
             <article className='about__card'>
               <FiAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>Student at Ada Tech School</small>
+              <small>Student at Ada Tech School<br></br></small>
+              <small>looking for an apprenticeship starting march 2023</small>
             </article>
 
             <article className='about__card'>
               <CgUser className='about__icon'/>
-              <h5>clients?</h5>
-              <small>myself</small>
+              <h5>my daily life</h5>
+              <small>I was able to experience through practice many tools and daily gestures of developer (versioning, tests, project management tools) but also several modes of operation (code reviews, peer-programming, retrospectives, etc.).</small>
             </article>
 
             <article className='about__card'>
               <BsFiles className='about__icon'/>
               <h5>Projects</h5>
-              <small>4+ Completed</small>
+              <small>I take part in projects in different domains, teams and languages (Javascript, Python, Git) giving me great adaptability.</small>
             </article>
           </div>
 
