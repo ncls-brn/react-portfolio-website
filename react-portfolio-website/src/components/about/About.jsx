@@ -31,13 +31,13 @@ const About = () => {
             <article className='about__card'>
               <CgUser className='about__icon'/>
               <h5>my daily life</h5>
-              <small>I was able to experience through practice many tools and daily gestures of developer (versioning, tests, project management tools) but also several modes of operation (code reviews, peer-programming, retrospectives, etc.).</small>
+              <small>I was able to experience through practice many tools and daily gestures of developer  but also several modes of operation.</small>
             </article>
 
             <article className='about__card'>
               <BsFiles className='about__icon'/>
               <h5>Projects</h5>
-              <small>I take part in projects in different domains, teams and languages (Javascript, Python, Git) giving me great adaptability.</small>
+              <small>I take part in projects in different domains, teams and languages, giving me great adaptability.</small>
             </article>
           </div>
 
