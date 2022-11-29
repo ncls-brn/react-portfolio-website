@@ -9,7 +9,7 @@ const Projets = () => {
   return (
     <section id='projets'>
       <h5>My Recent Work</h5>
-      <h2>Projets</h2>
+      <h2>Projects</h2>
 
       <div className="container projets__container">
         <article className="projets__item">
