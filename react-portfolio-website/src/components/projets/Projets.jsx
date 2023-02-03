@@ -14,7 +14,7 @@ const Projets = () => {
       <div className="container projets__container">
         <article className="projets__item">
         <div className="projets__item-image"></div>
-        <img src={IMG1} alt="" />
+        <img src={IMG1}  />
         <h3>Dataviz</h3>
         <div className="projets__item-cta">
         <a href="https://github.com/ncls-brn/ncls-brn.github.io"className="btn"target="_blank">Github</a>
@@ -24,7 +24,7 @@ const Projets = () => {
 
         <article className="projets__item">
         <div className="projets__item-image"></div>
-        <img src={IMG2} alt="" />
+        <img src={IMG2} />
         <h3>Trump VS Panda</h3>
         <div className="projets__item-cta">
         <a href="https://github.com/ncls-brn/pico-8-panda-vs-trump"className="btn"target="_blank">Github</a>
@@ -34,7 +34,7 @@ const Projets = () => {
 
         <article className="projets__item">
         <div className="projets__item-image"></div>
-        <img src={IMG3} alt="" />
+        <img src={IMG3} />
         <h3>e-commerce</h3>
         <div className="projets__item-cta">
         <a href="https://github.com/ncls-brn/projet-e-commerce-front-end"className="btn"target="_blank">Github</a>
