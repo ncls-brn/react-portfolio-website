@@ -17,8 +17,8 @@ const Projets = () => {
         <img src={IMG1} alt="" />
         <h3>Dataviz</h3>
         <div className="projets__item-cta">
-        <a href="https://github.com/ncls-brn/ncls-brn.github.io"className="btn"target="_blank">Github</a>
-        <a href="https://ncls-brn.github.io/"className="btn btn-primary"target="_blank">live projet</a>
+        <a href="https://github.com/ncls-brn/ncls-brn.github.io"className="btn"target="_blank" rel="noreferrer">Github</a>
+        <a href="https://ncls-brn.github.io/"className="btn btn-primary"target="_blank" rel="noreferrer">live projet</a>
         </div>
         </article>
 
@@ -27,8 +27,8 @@ const Projets = () => {
         <img src={IMG2} alt="" />
         <h3>Trump VS Panda</h3>
         <div className="projets__item-cta">
-        <a href="https://github.com/ncls-brn/pico-8-panda-vs-trump"className="btn"target="_blank">Github</a>
-        <a href=""className="btn btn-primary"target="_blank">live projet</a>
+        <a href="https://github.com/ncls-brn/pico-8-panda-vs-trump"className="btn"target="_blank" rel="noreferrer">Github</a>
+        <a href="https://ncls-brn.github.io/"className="btn btn-primary"target="_blank" rel="noreferrer">live projet</a>
         </div>
         </article>
 
@@ -37,8 +37,8 @@ const Projets = () => {
         <img src={IMG3} alt="" />
         <h3>e-commerce</h3>
         <div className="projets__item-cta">
-        <a href="https://github.com/ncls-brn/projet-e-commerce-front-end"className="btn"target="_blank">Github</a>
-        <a href=""className="btn btn-primary"target="_blank">live projet</a>
+        <a href="https://github.com/ncls-brn/projet-e-commerce-front-end"className="btn"target="_blank" rel="noreferrer">Github</a>
+        <a href="https://ncls-brn.github.io/"className="btn btn-primary"target="_blank" rel="noreferrer">live projet</a>
         </div>
         </article>
       </div>
@@ -46,4 +46,4 @@ const Projets = () => {
   )
 }
 
-export default Projets
+export default Projets;
