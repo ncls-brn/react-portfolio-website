@@ -1,14 +1,14 @@
-import React from 'react'
-import './about.css'
-import ME from '../../assets/me3.png'
-import {FiAward} from 'react-icons/fi'
-import {CgUser} from 'react-icons/cg'
-import {BsFiles} from 'react-icons/bs'
+import React from "react"
+import "./about.css"
+import ME from "../../assets/me3.png"
+import {FiAward} from "react-icons/fi"
+import {CgUser} from "react-icons/cg"
+import {BsFiles} from "react-icons/bs"
 
 
 const About = () => {
   return (
-    <section id='about'>
+    <section id="about">
       <h5>Get To Know</h5>
       <h2>About Me</h2>
 
@@ -21,21 +21,21 @@ const About = () => {
 
         <div className="about__content">
           <div className="about__cards">
-            <article className='about__card'>
-              <FiAward className='about__icon'/>
+            <article className="about__card">
+              <FiAward className="about__icon"/>
               <h5>Experience</h5>
               <small>Student at Ada Tech School<br></br></small>
               <small>looking for an apprenticeship starting march 2023</small>
             </article>
 
-            <article className='about__card'>
-              <CgUser className='about__icon'/>
+            <article className="about__card">
+              <CgUser className="about__icon"/>
               <h5>my daily life</h5>
               <small>I was able to experience through practice many tools and daily gestures of developer  but also several modes of operation.</small>
             </article>
 
-            <article className='about__card'>
-              <BsFiles className='about__icon'/>
+            <article className="about__card">
+              <BsFiles className="about__icon"/>
               <h5>Projects</h5>
               <small>I take part in projects in different domains, teams and languages, giving me great adaptability.</small>
             </article>
@@ -46,7 +46,7 @@ const About = () => {
 Autonomous, curious, attentive and team-oriented, I am looking to integrate an alternating company for the month of March 2023 to develop and deepen my knowledge while putting my skills at the service of the collective for the success of your projects.
           </p>
 
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
 
 
