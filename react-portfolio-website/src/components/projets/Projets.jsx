@@ -49,7 +49,7 @@ const Projets = () => {
         <h3>travel</h3>
         <div className="projets__item-cta">
         <a href="https://github.com/ncls-brn/travel"className="btn"target="_blank" rel="noreferrer">Github</a>
-        <a href="https://ncls-brn.github.io/"className="btn btn-primary"target="_blank" rel="noreferrer">live projet</a>
+        <a href="https://travel-app-kohl-eight.vercel.app/"className="btn btn-primary"target="_blank" rel="noreferrer">live projet</a>
         </div>
         </article>
       </div>
