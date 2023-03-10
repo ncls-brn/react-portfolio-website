@@ -3,7 +3,7 @@ import "./projets.css"
 import IMG1 from "../../assets/projet1.png"
 import IMG2 from "../../assets/panda-vs-trump.png"
 import IMG3 from "../../assets/e-commerce.png"
-import IMG4 from "../../assets/travel.png"
+import IMG4 from "../../assets/travel1.png"
 
 
 const Projets = () => {
