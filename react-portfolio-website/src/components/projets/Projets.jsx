@@ -4,6 +4,7 @@ import IMG1 from "../../assets/projet1.png"
 import IMG2 from "../../assets/panda-vs-trump.png"
 import IMG3 from "../../assets/e-commerce.png"
 import IMG4 from "../../assets/travel1.png"
+import IMG5 from "../../assets/meal1.png"
 
 
 const Projets = () => {
@@ -49,6 +50,16 @@ const Projets = () => {
         <h3>travel</h3>
         <div className="projets__item-cta">
         <a href="https://github.com/ncls-brn/travel"className="btn"target="_blank" rel="noreferrer">Github</a>
+        <a href="https://travel-life-app.vercel.app/"className="btn btn-primary"target="_blank" rel="noreferrer">live projet</a>
+        </div>
+        </article>
+
+        <article className="projets__item">
+        <div className="projets__item-image"></div>
+        <img src={IMG5} alt="" />
+        <h3>Meal App</h3>
+        <div className="projets__item-cta">
+        <a href="https://github.com/ncls-brn/meal-app"className="btn"target="_blank" rel="noreferrer">Github</a>
         <a href="https://travel-life-app.vercel.app/"className="btn btn-primary"target="_blank" rel="noreferrer">live projet</a>
         </div>
         </article>
