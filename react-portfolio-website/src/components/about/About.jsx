@@ -43,7 +43,7 @@ const About = () => {
 
           <p>
           After working 10 years as an  Staff Sergeant in the  French Army, I am now doing a reconversion in web development, an area where I discovered the richness of the trades (creativity, teamwork, problem solving, etc.) and the major impact on both companies and society at large. 
-Autonomous, curious, attentive and team-oriented, I am looking to integrate an alternating company for the month of March 2023 to develop and deepen my knowledge while putting my skills at the service of the collective for the success of your projects.
+Autonomous, curious, attentive and team-oriented, I always in search to develop and deepen my knowledge while putting my skills at the service of the collective for the success of your projects.
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
