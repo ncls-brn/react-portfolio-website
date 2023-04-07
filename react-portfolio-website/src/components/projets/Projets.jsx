@@ -57,11 +57,11 @@ const Projets = () => {
         <article className="projets__item">
         <div className="projets__item-image"></div>
         <img src={IMG5} alt="" />
-        <h3>Meal App</h3>
-        <small>in progress</small>
+        <h3>Meal App</h3><small className="in_progress">in progress</small>
+        
         <div className="projets__item-cta">
         <a href="https://github.com/ncls-brn/meal-app"className="btn"target="_blank" rel="noreferrer">Github</a>
-        <a href="https://travel-life-app.vercel.app/"className="btn btn-primary"target="_blank" rel="noreferrer">live projet</a>
+        <a href="https://meals-by-name.vercel.app/"className="btn btn-primary"target="_blank" rel="noreferrer">live projet</a>
         </div>
         </article>
       </div>
