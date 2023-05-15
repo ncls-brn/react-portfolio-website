@@ -63,6 +63,16 @@ const Projets = () => {
         <a href="https://meals-by-name.vercel.app/"className="btn btn-primary"target="_blank" rel="noreferrer">live projet</a>
         </div>
         </article>
+
+        <article className="projets__item">
+        <div className="projets__item-image"></div>
+        <img src={IMG5} alt="" />
+        <h3>Netflix</h3>       
+        <div className="projets__item-cta">
+        <a href="https://github.com/ncls-brn/netflix"className="btn"target="_blank" rel="noreferrer">Github</a>
+        <a href="https://netflix-app-ncls.vercel.app"className="btn btn-primary"target="_blank" rel="noreferrer">live projet</a>
+        </div>
+        </article>
       </div>
     </section>
   )
