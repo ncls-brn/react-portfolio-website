@@ -5,6 +5,7 @@ import IMG2 from "../../assets/panda-vs-trump.png"
 import IMG3 from "../../assets/e-commerce.png"
 import IMG4 from "../../assets/travel1.png"
 import IMG5 from "../../assets/meal2.png"
+import IMG6 from "../../assets/netflix.png"
 
 
 const Projets = () => {
@@ -66,7 +67,7 @@ const Projets = () => {
 
         <article className="projets__item">
         <div className="projets__item-image"></div>
-        <img src={IMG5} alt="" />
+        <img src={IMG6} alt="" />
         <h3>Netflix</h3>       
         <div className="projets__item-cta">
         <a href="https://github.com/ncls-brn/netflix"className="btn"target="_blank" rel="noreferrer">Github</a>
