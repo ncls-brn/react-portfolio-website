@@ -52,7 +52,7 @@ const Projets = () => {
               Github
             </a>
             <a
-              href="panda-vs-trump.js"
+              href="../../assets/panda-vs-trump.html"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
