@@ -52,7 +52,7 @@ const Projets = () => {
               Github
             </a>
             <a
-              href="panda-vs-trump.html"
+              href="https://nclsbrn.itch.io/trump-vs-panda"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
