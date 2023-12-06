@@ -137,7 +137,7 @@ const Projets = () => {
         <article className="projets__item">
           <div className="projets__item-image"></div>
           <img src={IMG7} alt="" />
-          <h3>CineMatch</h3>
+          <h3>CineMatch(in progress)</h3>
         </article>
       </div>
     </section>
