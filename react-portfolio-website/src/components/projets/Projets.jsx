@@ -2,7 +2,7 @@ import React from "react";
 import "./projets.css";
 import IMG1 from "../../assets/projet1.png";
 import IMG2 from "../../assets/panda-vs-trump.png";
-import IMG3 from "../../assets/e-commerce.png";
+import IMG7 from "../../assets/cinematch.png";
 import IMG4 from "../../assets/travel1.png";
 import IMG5 from "../../assets/meal2.png";
 import IMG6 from "../../assets/netflix.png";
@@ -132,6 +132,12 @@ const Projets = () => {
               live projet
             </a>
           </div>
+        </article>
+
+        <article className="projets__item">
+          <div className="projets__item-image"></div>
+          <img src={IMG7} alt="" />
+          <h3>CineMatch</h3>
         </article>
       </div>
     </section>
