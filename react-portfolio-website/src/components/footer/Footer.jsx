@@ -2,7 +2,7 @@ import React from "react";
 import "./footer.css";
 import { SiGithub } from "react-icons/si";
 import { SiLinkedin } from "react-icons/si";
-import { RiTwitterXFill } from "react-icons/ri";
+import { IoLogoTwitter } from "react-icons/io";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -34,7 +34,7 @@ const Footer = () => {
           <SiLinkedin />
         </a>
         <a href="https://twitter.com/Nclsjbrn">
-          <RiTwitterXFill />
+          <IoLogoTwitter />
         </a>
       </div>
 

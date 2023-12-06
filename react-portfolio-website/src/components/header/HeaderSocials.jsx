@@ -1,7 +1,7 @@
 import React from "react";
 import { BsLinkedin } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
-import { RiTwitterXFill } from "react-icons/ri";
+import { IoLogoTwitter } from "react-icons/io";
 
 const HeaderSocials = () => {
   return (
@@ -13,7 +13,7 @@ const HeaderSocials = () => {
         <BsGithub />
       </a>
       <a href="https://twitter.com/Nclsjbrn" target="_blank">
-        <RiTwitterXFill />
+        <IoLogoTwitter />
       </a>
     </div>
   );
