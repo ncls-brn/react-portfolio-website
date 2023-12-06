@@ -16,7 +16,7 @@ const Projets = () => {
       <div className="container projets__container">
         <article className="projets__item">
           <div className="projets__item-image"></div>
-          <img src={IMG1} alt="" />
+          <img src={IMG1} alt="" className="size-image" />
           <h3>Dataviz</h3>
           <div className="projets__item-cta">
             <a
@@ -40,7 +40,7 @@ const Projets = () => {
 
         <article className="projets__item">
           <div className="projets__item-image"></div>
-          <img src={IMG2} alt="" />
+          <img src={IMG2} alt="" className="size-image" />
           <h3>Trump VS Panda</h3>
           <div className="projets__item-cta">
             <a
@@ -64,7 +64,7 @@ const Projets = () => {
 
         <article className="projets__item">
           <div className="projets__item-image"></div>
-          <img src={IMG4} alt="" />
+          <img src={IMG4} alt="" className="size-image" />
           <h3>travel</h3>
           <div className="projets__item-cta">
             <a
@@ -88,7 +88,7 @@ const Projets = () => {
 
         <article className="projets__item">
           <div className="projets__item-image"></div>
-          <img src={IMG5} alt="" />
+          <img src={IMG5} alt="" className="size-image" />
           <h3>Meal App</h3>
           <div className="projets__item-cta">
             <a
@@ -112,7 +112,7 @@ const Projets = () => {
 
         <article className="projets__item">
           <div className="projets__item-image"></div>
-          <img src={IMG6} alt="" />
+          <img src={IMG6} alt="" className="size-image" />
           <h3>Netflix App</h3>
           <div className="projets__item-cta">
             <a
@@ -136,7 +136,7 @@ const Projets = () => {
 
         <article className="projets__item">
           <div className="projets__item-image"></div>
-          <img src={IMG7} alt="" />
+          <img src={IMG7} alt="" className="size-image" />
           <h3>CineMatch(in progress)</h3>
         </article>
       </div>
