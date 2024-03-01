@@ -49,13 +49,20 @@ const About = () => {
           </div>
 
           <p>
-            After working 10 years as an Staff Sergeant in the French Army, I am
-            now doing a reconversion in web development, an area where I
-            discovered the richness of the trades (creativity, teamwork, problem
-            solving, etc.) and the major impact on both companies and society at
-            large. Autonomous, curious, attentive and team-oriented, I always in
-            search to develop and deepen my knowledge while putting my skills at
-            the service of the collective for the success of your projects.
+            After 10 years as an Staff Sergeant officer in the French Army, I
+            decided to move into the digital sector. Having obtained a degree in
+            web development, I now wish to specialize in cybersecurity, a field
+            that echoes my background and my appetite for risk management. As
+            part of this process, I'm looking for a work-study program with 3
+            days in the company and 2 days at school starting in September 2024,
+            and hope to have the opportunity to deepen my cybersecurity skills
+            within a company that combines innovation and ethics. Autonomous,
+            curious and a team player, I'm ready to put what I've learned to
+            work for a team and ambitious projects. Finally, my military career
+            has forged in me rigor, resilience and adaptability, qualities that
+            I fully intend to put to good use in the field of IT security. I'd
+            like to think that my experience and personality will make me a
+            valuable asset to your team.
           </p>
 
           <a href="#contact" className="btn btn-primary">
