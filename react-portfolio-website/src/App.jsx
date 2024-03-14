@@ -6,10 +6,12 @@ import Experience from "./components/experience/Experience";
 import Projets from "./components/projets/Projets";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
+import { Analytics } from "@vercel/analytics/react";
 
 const App = () => {
   return (
     <>
+      <Analytics />
       <Header />
       <Nav />
       <About />
