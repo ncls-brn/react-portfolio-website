@@ -148,7 +148,7 @@ const Projets = () => {
               Github
             </a>
             <a
-              href="https://cinematch-app.vercel.app"
+              href="https://cinematch-app.vercel.app/login"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
