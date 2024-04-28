@@ -24,9 +24,14 @@ const About = () => {
               <FiAward className="about__icon" />
               <h5>Experience</h5>
               <small>
-                - Student at Ada Tech School 2022 - today<br></br>
+                - Student at Ada Tech School 2022 - 2024<br></br>
               </small>
-              <small>- Apprentice at Withings since 2023 - today</small>
+              <small>
+                - Apprentice at Withings since 2023 - 2024<br></br>
+              </small>
+              <small>
+                - Student at Ecole Hexagone 2024 - today<br></br>
+              </small>
             </article>
 
             <article className="about__card">

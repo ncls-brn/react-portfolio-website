@@ -11,22 +11,7 @@
     list-style: none;
     text-decoration: none;
 }
-/*
-:root {
-    --color-bg:#E3CEAB;
-    --color-bg-variant:#DCC5A5;
-    --color-primary:#1d3557;
-    --color-primary-variant:#504d4d;
-    --color-white:#3d405b;
-    --color-light:#070707;
 
-    --transition: all 400ms ease; 
-
-    --container-width-lg:75%;
-    --container-width-md:86%;
-    --container-width-sm:90%;
-}
-*/
 :root {
     --color-bg:#0c0d0d;
     --color-bg-variant:#2E567C;
